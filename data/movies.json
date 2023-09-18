@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a01",
+    "title": "Avatar",
+    "year": "1940",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "9.0"
+  },
+  {
+    "id": "b01",
+    "title": "Spiderman",
+    "year": "1980",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "8.0"
+  },
+  {
+    "id": "c01",
+    "title": "Avenger",
+    "year": "1940",
+    "genre": "Biography, Comedy, Crime",
+    "rating": "7.0"
+  },
+  {
+    "id": "c32fb85d-bfc9-48cc-9a44-28fc7f8e82f5",
+    "title": "updated Mission Impossible",
+    "year": "2023",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "9.0"
+  }
+]
